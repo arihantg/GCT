@@ -6,7 +6,7 @@
 
 * Put run_analysis.R to  C:\Users\yourname\Documents\R\
 
-  and then: source("run_analysis.R"
+  and then: source("run_analysis.R")
 
 * The latter will run the R script, it will read the dataset and write these files:
 
